@@ -1,2 +1,20 @@
-# CCNA-Labs
-Hands -on Cisco CCNA labs using Cisco packet tracer Covering Routng, Switching, VLANs, OSPF, ACLs, NAT, DHCP, DNS, And Network Troubleshooting.
+# # CCNA Labs
+
+This repository contains my hands-on Cisco Packet Tracer labs completed during my CCNA training.
+
+Topics covered:
+- VLAN
+- Inter-VLAN Routing
+- Static Routing
+- RIP
+- OSPF
+- ACL
+- NAT
+- DHCP
+- DNS
+- STP
+- EtherChannel
+- IPv4 Addressing
+- Network Troubleshooting
+
+These labs helped me strengthen my practical networking skills and troubleshooting approach.
